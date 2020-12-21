@@ -1,0 +1,52 @@
+body{
+    background-color: cadetblue;
+
+        
+}
+
+i.fa-calculator{
+      font-size: 90px;
+    color: mediumvioletred;
+    margin-bottom: 10px;
+}
+/*  دا تنسيق علشان يوصلى معلومه  الfa-fw */
+div{
+    
+    margin: 10px auto;
+    width: 800px;
+    text-align: center;
+}
+div a{
+    background-color: #ddd;
+    display: inline-block;
+    color:darkslategray;
+}
+/*النهااااايه   دا تنسيق علشان يوصلى معلومه ال فيكسدودث*/
+/*دا التنسيق الخاص بال ul*/
+/*<ul class="fa-ul">*/
+/*
+ul li{
+    padding: 5px;
+}
+.fa-sa{
+    font-size: 15px;
+    color: cyan;
+background-color: darkgrey;
+    margin-right: 10px;
+}
+*/
+/*<p><i class="fa fa-quote-left fa-5x fa-pull-left fa-border"></i> دى البرجراف الخاص ب*/
+p{
+    width: 400px;
+}
+.fa-spin{
+    font-size: 40px;
+}
+.sa-ma{
+    font-size: 90px;
+    color: red;
+}
+
+
+
+
